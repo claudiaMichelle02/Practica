@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'paginapractica'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6C7CD3D41CEB40619B522CDCBD3B5E89 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D9EC19E5A4A24C3992B15335B9BC88A3 }}
